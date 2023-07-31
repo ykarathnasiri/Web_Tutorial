@@ -1,0 +1,19 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: url(images/istockphoto-1146783088-612x612.jpg);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: url(url), -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(254,208,0,1.00) 49.43%,rgba(243,242,233,1.00) 100%);
+    background-image: url(url), -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(254,208,0,1.00) 49.43%,rgba(243,242,233,1.00) 100%);
+    background-image: url(url), -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(254,208,0,1.00) 49.43%,rgba(243,242,233,1.00) 100%);
+    background-image: url(url), linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(254,208,0,1.00) 49.43%,rgba(243,242,233,1.00) 100%);
+}
+.container .row .col-lg-3 {
+    background-image: url(images/istockphoto-1146783088-612x612.jpg);
+}
+.row .col-lg-3 .card.col-md-4.col-lg-12 {
+    background-image: url(images/istockphoto-1146783088-612x612.jpg);
+}
+.container #accordion1 .card {
+    background-image: url(images/istockphoto-1146783088-612x612.jpg);
+}
